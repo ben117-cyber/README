@@ -1,1 +1,1 @@
-
+the hill cipher was abandoned due it being outdated and better ciphers coming along not only that the machine you had to use to decyper it was confusing and the cipher its self was met with meet in the middle attacks. what made it useful was how complicated it was which ironicly was one of its failure and it was made to oporate using up to 3 symbols at once.
